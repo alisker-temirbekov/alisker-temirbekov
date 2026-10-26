@@ -1,16 +1,33 @@
-## Hi there 👋
+ Hi, I'm Alisker Temirbekov 👋
 
-<!--
-**alisker-temirbekov/alisker-temirbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management student from Kyrgyzstan
 
-Here are some ideas to get you started:
+I'm interested in technology, business, creativity, and learning new things. I'm currently developing my skills and exploring how technology and business can work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+
+- 🎓 Studying Management in Kyrgyzstan
+- 💻 Interested in technology and digital products
+- 💡 Exploring business, creative ideas, and problem-solving
+- 🌍 Improving my English and preparing for international education
+- 🤝 Gained volunteer experience at an English language centre
+
+ Interests
+
+- Technology
+- Business and Management
+- Creativity and Design
+- English and Communication
+- Teamwork and Personal Development
+
+ Experience
+
+I have volunteered at an English language centre, where I helped younger students with English activities and took part in promotional and sales activities. This experience helped me develop my communication and teamwork skills.
+
+ Goals
+
+I'm working on developing my skills, exploring new ideas, and building projects that combine technology, creativity, and business.
+
+---
+
+Thanks for visiting my profile!
